@@ -1,0 +1,63 @@
+ private List<Specialization> Specializations = new List<Specialization>
+        {
+            new Specialization
+            {
+                Name="Psychiatry(Mental, Emotional or Behavioral Disorders)"
+            },
+            new Specialization
+            {
+                Name="Dentistry(Teeth)"
+            },
+            new Specialization
+            {
+                Name="Pediatrics and New Born(Child)"
+            },
+           new Specialization
+            {
+                Name="Orthopedics(Bones)"
+            },
+            new Specialization
+            {
+                Name="Genecology and Infertility"
+            },
+            new Specialization
+            {
+                Name="Ear, Nose and Throat"
+            },
+           new Specialization
+            {
+                Name="Andrology and Male Infertility"
+            },
+            new Specialization
+            {
+                Name="Allergy and Immunology(Sensitivity and Immunity)"
+            },
+            new Specialization
+            {
+                Name="Cardiology and Vascular Disease(Heart)"
+            },
+           new Specialization
+            {
+                Name="Audiology"
+            },
+            new Specialization
+            {
+                Name="Cardiology and Thoracic Surgery(Heart & Chest)"
+            },
+            new Specialization
+            {
+                Name="Chest and Respiratory"
+            },
+            new Specialization
+            {
+                Name="Dietitian and Nutrition"
+            },
+            new Specialization
+            {
+                Name="Diagnostic Radiology(Scan Centers)"
+            },
+            new Specialization
+            {
+                Name="Diabetes and Endocrinology"
+            }
+        };
